@@ -2,8 +2,8 @@
 
 ## Learning Goals
 
-- Practice iterating through lists
-- Practice using list comprehension
+- Practice iterating through lists.
+- Practice using list comprehension.
 
 ***
 
